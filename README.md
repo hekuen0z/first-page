@@ -4,18 +4,14 @@ TO-DO:
  Добавить картинки и ссылки на свои проекты. 
  В отличие от этого примера, разделить их на секции по темам, а не по ЯП.
  
- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="100"/>
-</div>
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hekuen0z/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.alehnovich90@gmail.com">
+  <a href="https://www.navarro.softdevfl@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
-  <a href="https://t.me/Clownkill">
+  <a href="https://t.me/hekuen0z">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
