@@ -1,5 +1,7 @@
-![Hello! My name's Aleksey. I'm a Software developer (Java, C++). Check out my work](https://github.com/hekuen0z/first-page/blob/main/best_business_card.gif)
- 
+<p align="center">
+ <img src="https://github.com/hekuen0z/first-page/blob/main/business_card.gif" alt="GIF_Card" width="800" height="387">
+</p>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hekuen0z/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
