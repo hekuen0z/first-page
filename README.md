@@ -1,4 +1,4 @@
-![Hello! My name's Aleksey. I'm a Software developer (Java, C++). Check out my work](https://github.com/hekuen0z/first-page/blob/main/business_card.gif)
+![Hello! My name's Aleksey. I'm a Software developer (Java, C++). Check out my work](https://github.com/hekuen0z/first-page/blob/main/best_business_card.mp4)
  
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hekuen0z/">
