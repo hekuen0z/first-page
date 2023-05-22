@@ -20,7 +20,11 @@
 
 # 👋 &nbsp; Welcome to my GitHub!
 
-I'm a Software developer based in Minsk, Bealrus. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with Home Automation and Home Labs.
+I am a skilled software developer based in Minsk with a bachelor's degree in computer science from the prestigious Belarusian State University of Informatics and Radioelectronics. My expertise lies in server development, where I thrive in computing on powerful machines, handling data processing, interaction of end devices on the network, and cloud computing. I'm constantly strive to become a professional in this field.
+
+Apart from my technical skills, I am an active sports enthusiast who believes that it helps me maintain focus and concentration during work. It also promotes precision and clarity of thought, allowing me to approach problem-solving creatively. Additionally, I have a keen interest in psychology and philosophy, which helps me develop my soft skills at a high level 😎.
+
+If you are interested in my profile, please feel free to contact me through the widgets above ☝️. For more detailed technical information, including my technology stack, please refer to the section below 👇.
 
 &nbsp;
 
